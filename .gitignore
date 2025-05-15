@@ -1,0 +1,11 @@
+# Ignore environment file
+.env
+
+# Ignore firebase config file
+/config/firebaseConfig.js
+
+# Ignore Firebase Admin SDK service account JSON
+/minator-8dfcd-firebase-adminsdk-nvi0s-fb8c79b0dd.json
+
+# Ignore node_modules
+/node_modules
